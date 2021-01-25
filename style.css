@@ -862,6 +862,7 @@ h4 {
 }
 
 @media (max-width: 991px) {
+   
     .container {
         width: 100%;
     }
